@@ -7,9 +7,8 @@ much as possible you shouldn't rely on it to do what you can do with css.
 
 -
 
-The dart code compiles to javascript and will run on all modern browsers.
+*The dart code compiles to javascript and will run on all modern browsers.*
 
--
 
 ## Octopi Conventions
  
