@@ -1,0 +1,8 @@
+name: Octopi
+version: 0.1.0
+authors:
+ - srcspider <source.spider@gmail.com>
+description: Frontend library, part of the PHP Mjolnir library.
+homepage: https://github.com/ibidem/octopi
+dependencies:
+  browser: any
